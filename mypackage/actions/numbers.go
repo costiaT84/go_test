@@ -10,6 +10,6 @@ func IsPrime(num int) bool {
 	return true
 }
 
-func checkTheChange() string {
+func CheckTheChange() string {
 	return "there is an change"
 }
