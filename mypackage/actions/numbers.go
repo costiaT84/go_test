@@ -9,3 +9,7 @@ func IsPrime(num int) bool {
 	}
 	return true
 }
+
+func checkTheChange() string {
+	return "there is an change"
+}
