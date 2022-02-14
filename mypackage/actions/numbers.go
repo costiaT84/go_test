@@ -13,3 +13,6 @@ func IsPrime(num int) bool {
 func CheckTheChange() string {
 	return "there is an change"
 }
+func CheckTheChang1e() string {
+	return "there is an change"
+}
