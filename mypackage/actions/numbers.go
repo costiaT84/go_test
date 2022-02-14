@@ -24,3 +24,6 @@ func testCommit1() string {
 func testCommit2() string {
 	return "there is an change"
 }
+func testCommit3() string {
+	return "there is an change"
+}
