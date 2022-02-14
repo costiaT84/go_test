@@ -20,3 +20,7 @@ func CheckTheChang1e() string {
 func testCommit1() string {
 	return "there is an change"
 }
+
+func testCommit1() string {
+	return "there is an change"
+}
